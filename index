@@ -1,0 +1,31 @@
+Let's make a game!
+  name:Bimbo Clicker
+
+Resources
+  *bimbo
+    name:Bimbos
+  *cum
+    name:Cum
+    desc:Yummy cummies that we, like, totally can't resist!
+  *money
+    name:Monies
+    desc:We don't, like, know what these are for, but men are always totally giving them to us...
+  *milk
+    name:Milk
+    desc:Totally tasty milk straight from our bloated fuckbag udders!
+
+Buildings
+  *dildo
+    name:Dildo
+    desc:Used to make those smarty silly little girls cum their brains out until they, like, know what they're really meant for!
+    cost:5 monies
+    on tick:give 1 bimbo
+
+Upgrades
+  *applePieRecipe
+    name:Apple pie recipe
+    desc:Unlocks the ability to make apple pies!
+    
+  *cherryPieRecipe
+    name:Cherry pie recipe
+    desc:Boy, you'll never guess!
