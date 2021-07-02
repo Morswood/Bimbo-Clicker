@@ -2,7 +2,7 @@ Let's make a game!
   name:Bimbo Clicker
 
 Resources
-  *bimbo
+  *bimbos
     name:Bimbos
   *cum
     name:Cum
@@ -19,7 +19,7 @@ Buildings
     name:Dildo
     desc:Used to make those smarty silly little girls cum their brains out until they, like, know what they're really meant for!
     cost:5 monies
-    on tick:give 1 bimbo
+    on tick:give 1 bimbos
 
 Upgrades
   *applePieRecipe
