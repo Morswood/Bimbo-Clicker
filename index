@@ -1,6 +1,16 @@
 Let's make a game!
   name:Bimbo Clicker
 
+Settings
+  building cost increase:115%
+  building cost refund:50%
+
+Buttons
+  *makeBimbo
+    name:Brainwash
+    desc:No... I don't wan'.. be dumb 'n' ... Mmm, horny... *giggle*
+    on click:yield 1 bimbos
+
 Resources
   *bimbos
     name:Bimbos
